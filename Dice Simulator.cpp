@@ -1,3 +1,6 @@
+//Harman Brar
+//Dice Simulator Demo
+
 #include <iostream>
 #include <cmath>
 #include <cstdlib>
@@ -12,9 +15,6 @@ using namespace std;
 //the rolls of the dice
 //User types data, data is read using cin
 //Results are printed to the screen
- 
- //Author:   Janice Regan
- //Date: Jan. 22 2017  modified Jan 2020
 
 int main(void)
 {
